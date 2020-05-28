@@ -2,7 +2,7 @@
 title: Mono macro sources
 date: 2020-05-27T00:00:00.000Z
 author: Hannah
-summary: A list of mono macro sources
+summary: A list of foods that are heavy towards one particular macro, with the focus on easy proteins and fats. 
 tags:
   - tools
 ---
